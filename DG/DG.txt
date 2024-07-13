@@ -1,0 +1,14 @@
+1. npm create vite@latest : 
+   + Tạo một dự án mới sử dụng Vite, một công cụ xây dựng front-end hiện đại cho các ứng dụng web được xây dựng bằng JavaScript và TypeScript. 
+- npm i 	
+
+2.  : npm install styled-components 
+- dễ dàng quản lý và tổ chức code CSS
+
+3: "resolutions": {
+    "styled-components": "^5"
+  }
+
+   + put into package.json
+
+4. 
