@@ -2,6 +2,7 @@
 - npm run dev
   
 2.Home Page
+
    ![Trang chu game](https://github.com/user-attachments/assets/ff0c63de-19f3-4d32-bc73-7d210c091bc7)
 
 3.In Game 
@@ -10,4 +11,9 @@
 
 4. How to play
 - Click the Show Rules in Home Page
+  
 ![How to play](https://github.com/user-attachments/assets/8f6bbe5c-a443-4ebc-8731-24f99a0289d7)
+
+5. Play this game
+
+![Play](https://github.com/user-attachments/assets/481366a3-9fce-44cf-a9e3-968d88854e87)
